@@ -5,8 +5,8 @@
 - 📫 How to reach me ... vivian.zeru@vanderbilt.edu
 - 😄 Pronouns: she/her
 
-![vivian-lz's Stats](https://github-readme-stats.vercel.app/api?username=vivian-lz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![vivian-lz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-lz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![vivian-lz's Stats](https://github-readme-stats.vercel.app/api?username=vivian-lz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![vivian-lz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-lz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 vivian-lz/vivian-lz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
